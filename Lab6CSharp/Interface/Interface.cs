@@ -139,7 +139,7 @@ class Friend : Phone_Directory
 
 class Program
 {
-    public static void Task2()
+    public static void Task()
     {
         Phone_Directory[] directory = new Phone_Directory[]
         {

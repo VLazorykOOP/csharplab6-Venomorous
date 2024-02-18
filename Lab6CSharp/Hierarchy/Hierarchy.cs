@@ -167,7 +167,7 @@ namespace Hierarchy
             }
         }
 
-        public static void Task1()
+        public static void Task()
         {
             Place[] places = new Place[4];
 
